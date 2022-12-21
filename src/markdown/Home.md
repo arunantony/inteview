@@ -10,4 +10,5 @@ solve as per your intervier request.
 
 - [Sideeffects](/state)
   - Questions related react sideffects
-- [Controllled]('controlled')
+- [Redux]('/reduxbase')
+- [Loginform]('/loginform')
