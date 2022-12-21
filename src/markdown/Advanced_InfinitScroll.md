@@ -1,3 +1,5 @@
+[Back to Home](/)
+
 # Instructions&nbsp; ![Advanced](https://img.shields.io/badge/Advanced-yellow)
 
 ## Challenge -
@@ -14,3 +16,5 @@ Implement a custom **`<InfiniteScroll />`** component that allows a user to scro
 3. The **`<InfiniteScroll />`** component appends the new items to the list and re-renders.
 
 4. Steps 2 and 3 are repeated until the fetchData function returns an empty array or an error.
+
+file path :[src/components/AInfiniteScroll.jsx](src/components/AInfiniteScroll.jsx)

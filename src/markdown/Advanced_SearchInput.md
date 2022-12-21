@@ -1,3 +1,5 @@
+[Back to Home](/)
+
 # Instructions&nbsp; ![Advanced](https://img.shields.io/badge/Advanced-red)
 
 - Challenge: Create a SearchInput Hook
@@ -14,3 +16,5 @@ Implement a custom **`<SearchInput />`** component that allows a user to search 
 2. As the user types in the input field, the **`<SearchInput />`** component debounces the search requests by waiting for a specified amount of time before calling the onSearch function.
 
 3. When the user stops typing or the debounce timeout is reached, the **`<SearchInput />`** component calls the onSearch function with the current value of the input field.
+
+file path :[src/components/ASearchInput.jsx](src/components/ASearchInput.jsx)

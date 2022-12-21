@@ -1,3 +1,5 @@
+[Back to Home]('/')
+
 # Instructions&nbsp; ![medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 - Challenge: FizzBuzz
@@ -11,3 +13,5 @@
   - **Fizz** to label divisible by 3
   - **FizzBuzz** to label divisible by 2 and 3
 - Dont use for loop or map to generate the array
+
+file path: [src/components/FizzBuzz.tsx](src/components/FizzBuzz.tsx)

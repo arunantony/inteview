@@ -1,3 +1,5 @@
+[Back to Home](/)
+
 # Instructions &nbsp;
 
 - Challenge: Display Array of users to the browser
@@ -9,4 +11,4 @@
 3. Use the [jsonplaceholder](/controlled) api to fetch data.
 4. Use either **`fetch`** or **`axios`** (install dependency)
 
-path: [/src/components/SideEffects.jsx](/src/components/SideEffects.jsx)
+file path: [/src/components/SideEffects.jsx](/src/components/SideEffects.jsx)

@@ -1,3 +1,5 @@
+[Back to Home](/)
+
 # Instructions&nbsp;
 
 - Challenge: Lifting the state
@@ -49,3 +51,5 @@
 
 - Show user details **`<UserDetails/>`**
   - Details should have a delete button that delete users.
+
+file path: [src/components/LiftingState.tsx](src/components/LiftingState.tsx)

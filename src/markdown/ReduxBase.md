@@ -1,3 +1,5 @@
+[Back to Home](/)
+
 # Redux Store &nbsp; ![medium](https://img.shields.io/badge/-Medium-yellow)
 
 ## Requirements
@@ -7,5 +9,6 @@
 - Should be able to create and delete item.
 - Should follow a sensible folder structure for the stores
 - Use Redux Toolkit or Legacy Redux
+-
 
-path: [/src/components/ReduxBase.jsx](/src/components/ReduxBase.jsx)
+file path: [/src/components/ReduxBase.jsx](/src/components/ReduxBase.jsx)
