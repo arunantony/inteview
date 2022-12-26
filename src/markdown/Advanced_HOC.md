@@ -1,8 +1,8 @@
 [Back to Home](/)
 
-# Instructions&nbsp; ![Advanced](https://img.shields.io/badge/Advanced-yellow)
+# Instructions
 
-## Challenge -
+## Challenge - HOC
 
 ### Requirements
 

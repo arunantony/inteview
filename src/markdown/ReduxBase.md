@@ -1,6 +1,8 @@
 [Back to Home](/)
 
-# Redux Store &nbsp; ![medium](https://img.shields.io/badge/-Medium-yellow)
+# Instructions
+
+# Challenge - Redux Store
 
 ## Requirements
 

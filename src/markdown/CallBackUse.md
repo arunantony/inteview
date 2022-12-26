@@ -1,6 +1,6 @@
 [Back to Home](/)
 
-# Instructions &nbsp;
+# Instructions
 
 ## - Challenge: Display Array of users to the browser
 

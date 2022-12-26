@@ -1,6 +1,8 @@
 [Back to Home](/)
 
-# Instructions&nbsp; ![Advanced](https://img.shields.io/badge/Advanced-yellow)
+# Instructions
+
+## Challenge
 
 Implement a custom **`<AsyncButton />`** component that allows a user to trigger an async action by clicking a button. The component should display a loading indicator while the action is being performed, and should handle errors if the action fails. The component should also accept a **`label`** prop to display the button's text.
 

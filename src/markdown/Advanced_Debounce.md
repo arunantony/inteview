@@ -1,8 +1,8 @@
 [Back to Home](/)
 
-# Instructions&nbsp; ![Advanced](https://img.shields.io/badge/Advanced-yellow)
+# Instructions
 
-- Challenge: Create a useDebounce Hook
+## Challenge: Create a useDebounce Hook
 
 ## Requirements
 

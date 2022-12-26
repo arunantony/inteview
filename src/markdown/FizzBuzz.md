@@ -1,8 +1,8 @@
 [Back to Home]('/')
 
-# Instructions&nbsp; ![medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
+# Instructions
 
-- Challenge: FizzBuzz
+## Challenge: FizzBuzz
 
 ## Requirements
 

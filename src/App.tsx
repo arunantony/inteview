@@ -14,6 +14,7 @@ import LiftingState from './components/LiftingState';
 import FizzBuzz from './components/FizzBuzz';
 import CallBackUse from './components/CallBackUse';
 import HOC from './components/HOC';
+import ASuspense from './components/ASuspense';
 
 const App = () => {
   return (
@@ -32,6 +33,7 @@ const App = () => {
       <Route path='/liftstate' element={<LiftingState />} />
       <Route path='/fizzbuzz' element={<FizzBuzz />} />
       <Route path='/callbackuse' element={<CallBackUse />} />
+      <Route path='/suspenseA' element={<ASuspense />} />
       <Route path='/hoc' element={<HOC />} />
     </Routes>
   );

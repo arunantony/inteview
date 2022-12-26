@@ -2,7 +2,7 @@
 
 # Instructions&nbsp;
 
-- Challenge: Lifting the state
+## Challenge: Lifting the state
 
 ## Requirements
 

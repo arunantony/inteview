@@ -2,7 +2,7 @@
 
 # Instructions &nbsp;
 
-- Challenge: Display Array of users to the browser
+## Challenge: Display Array of users to the browser
 
 ## **Hints**
 

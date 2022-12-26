@@ -1,6 +1,6 @@
 [Back to Home](/)
 
-# Instructions&nbsp; ![Advanced](https://img.shields.io/badge/Advanced-red)
+# Instructions
 
 - Challenge: Create a SearchInput Hook
 - Use Typescript for extra credits

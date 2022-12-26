@@ -1,8 +1,8 @@
 [Back to Home](/)
 
-# Instructions&nbsp;
+# Instructions
 
-- Challenge: Create a controlled component.
+## Challenge: Create a controlled component.
 
 ## **Hints**
 

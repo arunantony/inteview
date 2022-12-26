@@ -1,6 +1,6 @@
 [Back to Home](/)
 
-# Instructions&nbsp; ![Intermnediate](https://img.shields.io/badge/Intermnediate-orange)
+# Instructions
 
 ## - Challenge
 

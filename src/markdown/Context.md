@@ -1,8 +1,8 @@
 [Back to Home](/)
 
-# Instructions&nbsp; ![medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
+# Instructions
 
-- Challenge: Using Context API
+## Challenge: Using Context API
 
 ## Requirements
 

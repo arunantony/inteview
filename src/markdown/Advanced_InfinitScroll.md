@@ -1,8 +1,8 @@
 [Back to Home](/)
 
-# Instructions&nbsp; ![Advanced](https://img.shields.io/badge/Advanced-yellow)
+# Instructions
 
-## Challenge -
+## Challenge
 
 Implement a custom **`<InfiniteScroll />`** component that allows a user to scroll through a large list of items by only rendering a small number of items at a time. The component should load new items from a provided fetchData function when the user scrolls to the bottom of the list.
 
