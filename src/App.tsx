@@ -18,24 +18,26 @@ import ASuspense from './components/ASuspense';
 
 const App = () => {
   return (
-    <Routes>
-      <Route path='/' element={<Home />} />
-      <Route path='/state' element={<SideEffects />} />
-      <Route path='/reduxbase' element={<ReduxBase />} />
-      <Route path='/loginform' element={<LoginForm />} />
-      <Route path='/controlled' element={<Controlled />} />
-      <Route path='/contextui' element={<ContextUI />} />
-      <Route path='/inifinitescroll' element={<AInfiniteScroll />} />
-      <Route path='/searchinput' element={<ASearchInput />} />
-      <Route path='/contexttodo' element={<AContextTodo />} />
-      <Route path='/debounce' element={<ADebounce />} />
-      <Route path='/asyncbtn' element={<AAsyncButton />} />
-      <Route path='/liftstate' element={<LiftingState />} />
-      <Route path='/fizzbuzz' element={<FizzBuzz />} />
-      <Route path='/callbackuse' element={<CallBackUse />} />
-      <Route path='/suspenseA' element={<ASuspense />} />
-      <Route path='/hoc' element={<HOC />} />
-    </Routes>
+    <div className='wrapper'>
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/state' element={<SideEffects />} />
+        <Route path='/reduxbase' element={<ReduxBase />} />
+        <Route path='/loginform' element={<LoginForm />} />
+        <Route path='/controlled' element={<Controlled />} />
+        <Route path='/contextui' element={<ContextUI />} />
+        <Route path='/inifinitescroll' element={<AInfiniteScroll />} />
+        <Route path='/searchinput' element={<ASearchInput />} />
+        <Route path='/contexttodo' element={<AContextTodo />} />
+        <Route path='/debounce' element={<ADebounce />} />
+        <Route path='/asyncbtn' element={<AAsyncButton />} />
+        <Route path='/liftstate' element={<LiftingState />} />
+        <Route path='/fizzbuzz' element={<FizzBuzz />} />
+        <Route path='/callbackuse' element={<CallBackUse />} />
+        <Route path='/suspenseA' element={<ASuspense />} />
+        <Route path='/hoc' element={<HOC />} />
+      </Routes>
+    </div>
   );
 };
 

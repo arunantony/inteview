@@ -3,9 +3,9 @@ import HomeInfo from '../markdown/Home.md';
 
 const Home = () => {
   return (
-    <>
+    <div className='wrapper'>
       <Instructions renderData={HomeInfo} />
-    </>
+    </div>
   );
 };
 
