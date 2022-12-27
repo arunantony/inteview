@@ -14,7 +14,7 @@ Use the **`fetch`** function to retrieve the data from the following API endpoin
 */
 
 import Instructions from '../components-readonly/Instructions';
-import ASuspenseInfo from '../markdown/SusupenseA.md';
+import ASuspenseInfo from '../markdown/SuspenseA.md';
 
 const ASuspense = () => {
   return (

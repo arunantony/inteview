@@ -16,6 +16,7 @@ import CallBackUse from './components/CallBackUse';
 import HOC from './components/HOC';
 import ASuspense from './components/ASuspense';
 import CSSGrid from './components/CSSGrid';
+import TableBuilder from './components/TableBuilder';
 
 const App = () => {
   return (
@@ -37,6 +38,7 @@ const App = () => {
         <Route path='/callbackuse' element={<CallBackUse />} />
         <Route path='/suspenseA' element={<ASuspense />} />
         <Route path='/hoc' element={<HOC />} />
+        <Route path='/tablebuilder' element={<TableBuilder />} />
         <Route path='/cssgrid' element={<CSSGrid />} />
       </Routes>
     </div>
