@@ -15,6 +15,7 @@ import FizzBuzz from './components/FizzBuzz';
 import CallBackUse from './components/CallBackUse';
 import HOC from './components/HOC';
 import ASuspense from './components/ASuspense';
+import CSSGrid from './components/CSSGrid';
 
 const App = () => {
   return (
@@ -36,6 +37,7 @@ const App = () => {
         <Route path='/callbackuse' element={<CallBackUse />} />
         <Route path='/suspenseA' element={<ASuspense />} />
         <Route path='/hoc' element={<HOC />} />
+        <Route path='/cssgrid' element={<CSSGrid />} />
       </Routes>
     </div>
   );
