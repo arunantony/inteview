@@ -17,6 +17,7 @@ import HOC from './components/HOC';
 import ASuspense from './components/ASuspense';
 import CSSGrid from './components/CSSGrid';
 import TableBuilder from './components/TableBuilder';
+import TableSearchSort from './components/TableSearchSort';
 
 const App = () => {
   return (
@@ -39,6 +40,7 @@ const App = () => {
         <Route path='/suspenseA' element={<ASuspense />} />
         <Route path='/hoc' element={<HOC />} />
         <Route path='/tablebuilder' element={<TableBuilder />} />
+        <Route path='/tablesearchsort' element={<TableSearchSort />} />
         <Route path='/cssgrid' element={<CSSGrid />} />
       </Routes>
     </div>
