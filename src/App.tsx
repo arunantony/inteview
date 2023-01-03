@@ -2,7 +2,7 @@ import Home from './pages/Home';
 import { Routes, Route } from 'react-router-dom';
 import SideEffects from './components/SideEffects';
 import Controlled from './components/Controlled';
-import ContextUI from './components/ReduxBase';
+import ContextUI from './components/ContextUI';
 import AInfiniteScroll from './components/AInfiniteScroll';
 import ASearchInput from './components/ASearchInput';
 import AContextTodo from './components/AContextTodo';
@@ -19,6 +19,8 @@ import CSSGrid from './components/CSSGrid';
 import TableBuilder from './components/TableBuilder';
 import TableSearchSort from './components/TableSearchSort';
 import MultiPage from './components/MultiPage';
+import MaterialUIForm from './components/MaterialUIForm';
+import ListGQL from './components/ListGQL';
 
 const App = () => {
   return (
@@ -44,6 +46,8 @@ const App = () => {
         <Route path='/tablesearchsort' element={<TableSearchSort />} />
         <Route path='/cssgrid' element={<CSSGrid />} />
         <Route path='/multipage' element={<MultiPage />} />
+        <Route path='/muiform' element={<MaterialUIForm />} />
+        <Route path='/listgql' element={<ListGQL />} />
       </Routes>
     </div>
   );

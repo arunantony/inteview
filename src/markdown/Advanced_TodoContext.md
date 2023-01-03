@@ -4,7 +4,7 @@
 
 ## - Challenge
 
-Build a simple to-do app that allows a user to add and delete items from a list. The app should have the following features:
+Build a simple to-do app that allows a user to add and delete items from a list. Use React Context API The app should have the following features:
 
 ### Requirementss
 
