@@ -18,6 +18,7 @@ import ASuspense from './components/ASuspense';
 import CSSGrid from './components/CSSGrid';
 import TableBuilder from './components/TableBuilder';
 import TableSearchSort from './components/TableSearchSort';
+import MultiPage from './components/MultiPage';
 
 const App = () => {
   return (
@@ -42,6 +43,7 @@ const App = () => {
         <Route path='/tablebuilder' element={<TableBuilder />} />
         <Route path='/tablesearchsort' element={<TableSearchSort />} />
         <Route path='/cssgrid' element={<CSSGrid />} />
+        <Route path='/multipage' element={<MultiPage />} />
       </Routes>
     </div>
   );
